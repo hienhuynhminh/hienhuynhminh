@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- My name is Hien
+- I am a Vietnamese 🇻🇳 living in the Netherlands 🇳🇱
+- I have recently graduated from Tilburg University
 <!--
 **hienhuynhminh/hienhuynhminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
