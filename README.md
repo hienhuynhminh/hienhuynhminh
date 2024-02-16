@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- My name is Hien
-- I am a Vietnamese 🇻🇳 living in the Netherlands 🇳🇱
-- I have recently graduated from Tilburg University
+- My name is Hien. My pronoun is he/him.
+- I am a Vietnamese 🇻🇳 living in the Netherlands 🇳🇱.
+- I have recently graduated from Tilburg University with a degree in Data Science.
+- I am passionate about using my Python skills for my first job in data analytics/data engineering.
+- How to reach me 📫: hienhuynh.tdn@gmail.com
 <!--
 **hienhuynhminh/hienhuynhminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
