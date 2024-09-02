@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- My name is Hien (he/him)
+- My name is Hien.
 - I am a Vietnamese 🇻🇳 living in the Netherlands 🇳🇱.
 - I graduated from Tilburg University and hold a master's degree in data science 👨‍🎓.
 - I gathered the codes I wrote in the past in the repository ```past_projects```, please check them out!
